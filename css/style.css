@@ -1,0 +1,89 @@
+.barraSuperior{
+	height: 200px;
+	margin-top: 10px;
+}
+
+.senhaAtual{
+	text-align: center;
+	background-color: #003a5f;
+	color: white;
+	margin-top: 0px;
+	border-radius: 15px 15px 0px 0px ;
+}
+
+.senhaAtualTexto{
+	font-size: 65pt;
+	font-weight: 400;
+	text-shadow: 3px 2px 4px black;
+}
+
+#senhaAtualNumero{
+	font-size: 100pt;
+	font-weight: 800;
+	text-shadow: 3px 2px 4px black;
+}
+
+.mesaAtual{
+	text-align: center;
+	background-color: #E0DF31;
+	color: white;
+	margin-top: 0px;
+	border-radius: 0px 0px 15px 15px;
+}
+
+.mesaAtendimentoTexto{
+	text-align: top;
+	font-size: 45pt;
+	font-weight: 400;
+	text-shadow: 3px 2px 4px black;
+}
+
+#mesaAtendimentoNumero{
+	font-size: 65pt;
+	font-weight: 400;
+	text-shadow: 3px 2px 4px black;;
+}
+
+.ultimaSenha{
+	font-weight: 900;
+	text-align: center;
+	background-color: #ccc;
+	height: 120px;
+	width: 450px;
+	margin-top: 20px;
+	border-radius: 15px;
+}
+
+#ultimaSenhaTexto{
+	font-size: 30px;
+	color: #003a5f;
+}
+
+#ultimaSenhaNumero{
+	font-size: 40px;
+	color: black;
+}
+
+.uespiLogo{
+
+	max-width: 350px;
+}
+
+.sisuLogo{
+	max-width: 400px;
+}
+
+.uespiTexto{
+	font-size: 27pt;
+	font-weight: 800;
+	color: #003a5f;
+}
+
+.subtitulo{
+	font-size: 30px;
+	font-weight: 400;
+}
+
+audio{
+	display: none;
+}
